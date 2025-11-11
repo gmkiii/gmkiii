@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Baptiste
 
-<!--
-**gmkiii/gmkiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Étudiant en informatique.  
+⚙️ J’aime travailler sur des projets d’automatisation et de cybersécurité.  
+🏋️‍♂️ En dehors du code : foot, tennis et technologie.
 
-Here are some ideas to get you started:
+## 🚀 Compétences
+- HTML, CSS, Java, Python, JavaScript, 
+-  Linux, Docker  
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Me contacter
+- ✉️ baptiste.dewaele3@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/baptiste-dewaele-322158305/)  
+
